@@ -20,7 +20,7 @@ print("Welcome to ADD-100 Budget Calculator, We will help you calculate your bud
 # asking the user for how much their monthly budget it 
 net_monthly_income = float(input("Please enter your monthly net income: "))
 # Since we now have that, we will keep this in mind for everything we enter to make a percentage of the budget
-#  TODO: Right now it's not properly formatted, so I will worry about it later so I make sure it looks  better formatted decimal wise w/float
+#  TODO: ** This is done** Right now it's not properly formatted, so I will worry about it later so I make sure it looks  better formatted decimal wise w/float
 print("Your total monthly net income entered is ", net_monthly_income)
 
 # now gather the remaining information
